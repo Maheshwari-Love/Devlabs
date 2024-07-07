@@ -3704,6 +3704,13 @@
   "description": "Sharly is a tool which helps you to chat with PDF documents and more."
 },
 {
+  "productName": "TypeScript",
+  "category": "Tool",
+  "image": "https://iconduck.com/icons/95017/typescript-icon",
+  "link": "https://www.typescriptlang.org/",
+  "description": "TypeScript extends JavaScript by adding types to the language. TypeScript speeds up your development experience."
+},
+{
     "productName": "Zoom",
     "category": "tools",
     "image": "https://aflcio.org/sites/default/files/2020-03/Zoom-Pro-Annually-2.jpg",
